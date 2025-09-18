@@ -1,4 +1,4 @@
-![LevelApp Cover](https://raw.githubusercontent.com/levelapp-org/.github/main/profile/assets/cover-levelapp.jpg)
+![LevelApp Cover](assets/cover-levelapp.jpg)
 
 
 # 🌐 LevelApp – AI Evaluation Framework for Continuous Testing
